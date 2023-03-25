@@ -1,0 +1,13 @@
+[Desktop Entry]
+Name=Powertrack
+Encoding=UTF-8
+Version=1.0
+Type=Application
+Terminal=false
+Exec=powertrack
+GenericName=Power info
+Icon=de.somefoo.powertrack
+Categories=GTK;GNOME;Utility
+X-DBUS-ServiceName=de.somefoo.powertrack
+StartupNotify=true
+X-Purism-FormFactor=Workstation;Mobile;

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright 2022 Pit Henrich -->
+<component type="desktop-application">
+  <id>de.somefoo.powertrack</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>MIT</project_license>
+  <name>Powertrack</name>
+  <summary>Tool to track battery statistics.</summary>
+  <description>
+    <p>
+      An application that provides statistics about the main battery for mobile platforms.
+    </p>
+  </description>
+  <launchable type="desktop-id">de.somefoo.powertrack.desktop</launchable>
+  <provides>
+    <binary>powertrack</binary>
+  </provides>
+<!--  <screenshots> -->
+<!--    <screenshot type="default"> -->
+<!--      <image>http://TODO.ADD</image> -->
+<!--    </screenshot> -->
+<!--  </screenshots> -->
+  <url type="homepage">https://github.com/somefoo/Powertrack</url>
+  <url type="bugtracker">https://github.com/somefoo/Powertrack/issues</url>
+  <content_rating type="oars-1.1"/>
+  <releases>
+    <release version="0.1.0" date="2023-03-21">
+      <description>
+        Display basic statistics
+      </description>
+    </release>
+  </releases>
+</component>
+
