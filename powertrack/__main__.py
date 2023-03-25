@@ -225,7 +225,7 @@ class Battery:
             'current': MaybeValue(current, "A", True, "N/A"),
             'voltage': MaybeValue(voltage, "V", voltage >= 0, "N/A"),
             'power': MaybeValue(power, "W", True, "N/A"),
-            'rated': MaybeValue(rated, "A", rated >= 0, "N/A"),
+            'rated': MaybeValue(rated, "Wh", rated >= 0, "N/A"),
             'health': MaybeValue(health, "", True, "N/A"),
             'status': MaybeValue(status, "", True, "N/A"),
             'expected_time': MaybeValue(expected_time, "h", expected_time >= 0 and power < 0, "N/A"),
