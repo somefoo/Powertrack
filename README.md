@@ -39,3 +39,9 @@ Go into build folder and run: `sudo ninja uninstall`
 
 ### Executing program
 The application should now be installed and a new icon should be visible on your app selection screen. Just start it like any other app.
+
+## Images
+
+<img src="https://user-images.githubusercontent.com/50917034/227715878-3907352f-b11c-4d8b-ba4b-82ad2c2982f7.png" width="300"> <img src="https://user-images.githubusercontent.com/50917034/227715879-79a54cec-e533-4a75-a65e-ed642fb3e2d6.png" width="300">
+
+
