@@ -15,16 +15,16 @@
   <provides>
     <binary>powertrack</binary>
   </provides>
-<!--  <screenshots> -->
-<!--    <screenshot type="default"> -->
-<!--      <image>http://TODO.ADD</image> -->
-<!--    </screenshot> -->
-<!--  </screenshots> -->
+  <screenshots>
+    <screenshot type="default">
+      <image>https://user-images.githubusercontent.com/50917034/227716136-5df947b7-ffa4-4cd6-bf70-2c9946161f6d.png</image>
+    </screenshot>
+  </screenshots>
   <url type="homepage">https://github.com/somefoo/Powertrack</url>
   <url type="bugtracker">https://github.com/somefoo/Powertrack/issues</url>
   <content_rating type="oars-1.1"/>
   <releases>
-    <release version="0.1.0" date="2023-03-21">
+    <release version="0.1.0" date="2023-03-25">
       <description>
         Display basic statistics
       </description>
