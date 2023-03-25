@@ -42,6 +42,4 @@ The application should now be installed and a new icon should be visible on your
 
 ## Images
 
-<img src="https://user-images.githubusercontent.com/50917034/227716136-5df947b7-ffa4-4cd6-bf70-2c9946161f6d.png" width="300"> <img src="https://user-images.githubusercontent.com/50917034/227715878-3907352f-b11c-4d8b-ba4b-82ad2c2982f7.png" width="300">
-
-
+<img src="https://user-images.githubusercontent.com/50917034/227716797-ee2f86f2-4acb-4fec-9e63-1d7c2f482664.png" width="300"> <img src="https://user-images.githubusercontent.com/50917034/227716795-68a945bf-d902-4eb2-891a-67ccb782d691.png" width="300">
